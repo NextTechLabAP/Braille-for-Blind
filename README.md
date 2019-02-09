@@ -1,2 +1,2 @@
 # Braille_For_Blind
-This program acts as a translation interface between voice,text and braille.
+This program acts as a translation interface between voice, text and braille.
